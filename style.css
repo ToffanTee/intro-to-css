@@ -76,3 +76,37 @@ h1, h2, p {
     font-family: 'Franklin Gothic Medium';
     background-color: black;
 }*/
+
+/* HEX VALUE #rrggbb 00-lowest value ff-highest value
+h1, h2, p {
+    text-align: center;
+    color: #000000;
+} */
+
+/* HSL and HSLA - hue(degree), saturation(%), lightness(%)
+h1 {
+    color: hsl(248, 53%, 58%)
+}
+
+h1 {
+    color: hsla(248, 53%, 58%, 0.5)
+} */
+
+/* body {
+    background-color: aquamarine;
+    opacity: none;
+} */
+
+/* body {
+    letter-spacing: 4px;
+    word-spacing: 4px;
+    background-color: aquamarine;
+    text-align: justify;
+  } */
+
+/* body {
+    width: 100px;
+    height: 100px;
+    background: blue;
+    display: none;
+} */
