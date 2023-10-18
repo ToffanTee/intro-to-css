@@ -1,0 +1,78 @@
+/* Class selector 
+.second-h1 {
+    color:blue;
+    font-size: 20px;
+} */
+
+/* #first-h1, #first-p, .second-h1 {
+    color: rgb(255,0,0);
+} */
+
+/* #container p {
+    color: blue;
+    text-align: justify;
+} */
+
+/* h1 {
+    border: 5px dashed red;
+    padding: 30px 20px 20px 30px;
+    margin: 50px; 
+    display: inline-block;
+}  */
+
+/* ID Selectors
+#container{
+    display: inline-block;
+    width: 50%;
+    text-align: justify;
+}   */
+
+/* 
+Styling each borader seperately
+h1 {
+    border-top: 5px dashed red;
+    border-bottom: 5px dashed red;
+    border-left: 5px dashed red;
+    border-right: 5px dashed red;
+} */ 
+
+/* Universal selector
+* {
+    text-align: center;
+    color: blue;
+}  */
+
+/* 
+Group or multiple selectors example
+h1 {
+    text-align: center;
+    color: red;
+}
+
+h2 {
+    text-align: center;
+    color: red;
+}
+
+p {
+    text-align: center;
+    color: red;
+} 
+
+h1, h2, p {
+    text-align: center;
+    color: dodgerblue;
+} */
+
+/* RGB and RGBA Colors
+#first-h1 {
+    color: rgb(210,210,210,);
+    font-family: 'Franklin Gothic Medium';
+    background-color: black;
+} 
+
+#first-h1 {
+    color: rgba(210,210,210,0.5);
+    font-family: 'Franklin Gothic Medium';
+    background-color: black;
+}*/
